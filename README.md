@@ -36,9 +36,10 @@ Este é um projeto estático de estudo. Os links de navegação são ilustrativo
 
 ## Como executar
 
-1. Baixe ou clone este repositório.
-2. Abra a pasta do projeto.
-3. Abra o arquivo `index.html` no navegador.
+
+1. Acesse https://eduardonobilioni.github.io/Travelgram/
+2. Navegue pela página para conferir o layout 
+
 
 Também é possível abrir a pasta no Visual Studio Code e executar o `index.html` com a extensão **Live Server** para acompanhar as alterações durante o desenvolvimento.
 
